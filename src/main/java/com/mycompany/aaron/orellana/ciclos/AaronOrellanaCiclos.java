@@ -34,6 +34,7 @@ public class AaronOrellanaCiclos {
             int op = leer.nextInt();
             switch (op) {
                 case 0:
+                    System.out.println("------------------");
                     System.out.println("Adios");
                     bandera = 1;
                     break;
